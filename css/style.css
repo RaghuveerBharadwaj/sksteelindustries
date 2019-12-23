@@ -933,6 +933,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #portfolio .portfolio-item figure {
+  background: #fff;
   overflow: hidden;
   height: 350px;
   position: relative;
